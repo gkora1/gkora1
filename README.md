@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Glenn Koranteng
 - 👀 I’m interested in iOS development, full stack web development and offensive cybersecurity
-- 🌱 I’m currently learning information systems at the university of Dayton
+- 🌱 I’m currently learning information systems at the University of Dayton
 - 💞️ I’m looking to collaborate on iOS projects and creating unique websites
 - 📫 How to reach me is via email: glennkoranteng01@gmail.com
